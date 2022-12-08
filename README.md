@@ -1,4 +1,4 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+## My Bile landing
+* To see the page [DEMO LINK (#demo)](https://anton-iskryk.github.io/my-bike-landing/)
+* Used stack: HTML5, CSS (SASS), JS (for the menu).
+* The layout is absolutely responsive on mobiles, tablets and desktop. Used such features as flexbox and grid.
